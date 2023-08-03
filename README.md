@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Marwan Radwan</h1>
 <h3 align="center">A passionate backend Software Engineer, eager to contribute to team success through hard work, attention to detail, and excellent organizational skills. Motivated to learn, grow, and excel in Software Engineering.</h3>
 
-- 🌱 I’m currently learning **MERN stack and system design.**
-
+- 🌱 I’m currently learning **Backend Engineering.**
 - 📫 How to reach me **marwan.swe@outlook.com**
-
-- 📄 Know about my experiences [https://bit.ly/3M7cpiG](https://bit.ly/3M7cpiG)
+- 📄 Know about my experiences [Here](bit.ly/3QnCXzW)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
