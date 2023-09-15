@@ -19,14 +19,14 @@
 <h4>Programming Languages</h4>
     <p align="center">
     <a href="#skills">
-      <img src="https://skillicons.dev/icons?i=javascript,cpp,java,python,bash" />
+      <img src="https://skillicons.dev/icons?i=javascript,cpp,java,python" />
     </a>
   </p>
 
 <h4>Software</h4>
     <p align="center">
     <a href="#skills">
-      <img src="https://skillicons.dev/icons?i=nodejs,express,postgresql,mongodb,jest,selenium,html,css,bootstrap" />
+      <img src="https://skillicons.dev/icons?i=nodejs,express,postgresql,mongodb,prisma,jest,selenium,html,css,bootstrap" />
     </a>
   </p>
 
