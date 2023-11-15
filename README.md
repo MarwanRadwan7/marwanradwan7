@@ -1,8 +1,8 @@
 <h1 align="center"><b>Hi , I'm Marwan </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
-<p align="center">
+<!-- <p align="center">
   <a href="#about-me"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&center=true&vCenter=true&width=435&lines=Hello%2C+I+am+Marwan+Radwan.%E2%9D%A4%EF%B8%8F;Backend+Software+Engineer%2C;Senior+Computer+Engineering+Student%2C;Curious+%2F+Active+learner%2C;I+love+to+learn+new+stuff." alt="Typing SVG" /></a>
-</p>
+</p> -->
 
 ## <img src="https://cdn.discordapp.com/emojis/852881450667081728.gif" width="25px" height="20px"><b> About Me</b>
 
