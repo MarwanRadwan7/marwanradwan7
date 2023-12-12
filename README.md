@@ -18,7 +18,7 @@
 <h4>Programming Languages</h4>
     <p align="center">
     <a href="#skills">
-      <img src="https://skillicons.dev/icons?i=javascript,typescript,java,python" />
+      <img src="https://skillicons.dev/icons?i=javascript,typescript,go,java" />
     </a>
   </p>
 
