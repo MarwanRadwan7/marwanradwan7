@@ -22,13 +22,14 @@
     </a>
   </p>
 
+<!--
 <h4>Software</h4>
     <p align="center">
     <a href="#skills">
       <img src="https://skillicons.dev/icons?i=nodejs,express,postgresql,mongodb,prisma,jest,html,css,bootstrap,react,redux" />
     </a>
   </p>
-
+->
 <!--
 <h4>Tools</h4>
     <p align="center">
