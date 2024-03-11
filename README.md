@@ -6,7 +6,7 @@
 
 ## <img src="https://cdn.discordapp.com/emojis/852881450667081728.gif" width="25px" height="20px"><b> About Me</b>
 
-- A passionate backend Software Engineer, eager to contribute to team success through hard work, attention to detail, and excellent organizational skills.
+-  💡 A passionate Software Engineer, interested in backend engineering, databases and system design.
 - 🌱 I’m currently doing **Backend Engineering.**
 - 📫 How to reach me **marwan.swe@outlook.com**
 
