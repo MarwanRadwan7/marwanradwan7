@@ -8,7 +8,7 @@
 
 -  💡 A passionate Software Engineer interested in backend engineering, databases and system design.
 - 🌱 I’m currently doing **Backend Engineering.**
-- 📫 How to reach me **marwan.swe@outlook.com**
+- 📫 Reach me on **marwan.swe@outlook.com**
 
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br> -->
 
